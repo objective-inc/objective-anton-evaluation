@@ -16,4 +16,4 @@ The article IDs in this dataset refer to the H&M dataset available on Kaggle. Yo
 
 ### Associated Resources
 
-- Blog post: [Link to be added]
+- Demo: https://www.objective.inc/demos/anton
